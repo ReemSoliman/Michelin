@@ -22,8 +22,8 @@ arc_tools.version()
 # Setup SnowFlake connection
 options = {
 "sfUrl": "ab43836.west-europe.azure.snowflakecomputing.com",
-"sfUser": "otarabichi3@gatech.edu", # Email address of your personal Snowflake account
-"sfPassword": "Snow12552390", # Password you choose when first login to Snowflake
+"sfUser": "r****", # Email address of your personal
+"sfPassword": "", # Password you choose when first login to Snowflake
 "sfDatabase": "GATECH",
 "sfSchema": "GROUP_7", # Replace * by your group number
 "sfWarehouse": "GATECH_WH"
